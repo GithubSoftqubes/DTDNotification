@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DTDNotification</string>
+    <string name="server_key">YOUR FCM SERVER KEY</string>
+</resources>

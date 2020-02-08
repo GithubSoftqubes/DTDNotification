@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510828870156",
+    "firebase_url": "https://dtdnotification-3573c.firebaseio.com",
+    "project_id": "dtdnotification-3573c",
+    "storage_bucket": "dtdnotification-3573c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510828870156:android:d6752e78d1b1e204728c29",
+        "android_client_info": {
+          "package_name": "com.dtdnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510828870156-fkv2r3uhr4eqb9uf8m2i2qlklhbecrks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dtdnotification",
+            "certificate_hash": "8cc458dc7fa29797bd0e6300dedad602d8717d89"
+          }
+        },
+        {
+          "client_id": "510828870156-b4tih1ec0u58hausrfe17j4lotv4hal6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBniO6qSb-F_XfmIzg18eOMw3Var9AfS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510828870156-b4tih1ec0u58hausrfe17j4lotv4hal6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
